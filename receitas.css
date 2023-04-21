@@ -4,8 +4,6 @@
     padding: 0;
 }
 
-/* Estilos para telas grandes */
-
 .receitas {
     display: flex;
     justify-content: space-between;
@@ -59,7 +57,6 @@
     font-size: 1rem;
 }
 
-/* Estilos para telas médias */
 
 @media (max-width: 768px) {
     .receitas {
@@ -72,7 +69,7 @@
     }
 }
 
-/* Estilos para telas pequenas */
+
 
 @media (max-width: 480px) {
     .card {
